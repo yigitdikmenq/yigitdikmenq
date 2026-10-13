@@ -2,6 +2,8 @@
 
 **Web Developer · AI-Assisted Development · IT & Database Support**
 
+🌐 **Portfolio:** [yigitdikmenq.github.io](https://yigitdikmenq.github.io)
+
 📍 Warsaw, Poland → relocating to Switzerland &nbsp;|&nbsp; ✅ EU work authorisation (no sponsorship needed)
 
 I build responsive websites and online stores using AI-assisted development workflows
@@ -27,7 +29,7 @@ troubleshooting business applications and supporting users.
 
 ### 🌱 Currently
 
-- Building my portfolio projects (coming soon here)
+- Building portfolio projects: see [my website](https://yigitdikmenq.github.io)
 - Deepening my SQL and JavaScript skills
 - Learning German 🇨🇭
 
@@ -37,4 +39,4 @@ Turkish (native) · English (B1–B2) · German (beginner)
 
 ### 📫 Contact
 
-✉️ yigitkagandikmen@gmail.com
+✉️ yigitkagandikmen@gmail.com · 🌐 [yigitdikmenq.github.io](https://yigitdikmenq.github.io) · 📄 [CV (PDF)](https://yigitdikmenq.github.io/Yigit_Dikmen_CV.pdf)
