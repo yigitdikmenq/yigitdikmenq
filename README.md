@@ -21,6 +21,7 @@ troubleshooting business applications and supporting users.
 ![SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ### 🤖 AI Tools I Work With
@@ -34,6 +35,10 @@ troubleshooting business applications and supporting users.
 | Project | Description | Links |
 |---|---|---|
 | 🏔️ **Alpenmarkt** | Swiss regional food e-commerce demo: React, TypeScript, EN/DE, TWINT checkout, 31 tests, CI/CD | [Live demo](https://yigitdikmenq.github.io/alpenmarkt-store/) · [Code](https://github.com/yigitdikmenq/alpenmarkt-store) |
+| 🛠️ **IT Support PowerShell Toolkit** | Active Directory onboarding/offboarding, Microsoft 365 licence report, inventory and network checks; 41 Pester tests on PS 5.1 & 7 | [Code](https://github.com/yigitdikmenq/it-support-powershell-toolkit) |
+| 🗄️ **SQL Reporting Toolkit** | T-SQL on SQL Server 2022: management reports, data-validation checks, user/role management, backup & index maintenance | [Code](https://github.com/yigitdikmenq/sql-reporting-toolkit) |
+| 🖥️ **IT Automation Scripts** | Python tools for Windows support: health check, event-log scanner, onboarding checklist | [Code](https://github.com/yigitdikmenq/it-automation-scripts) |
+| 🇨🇭 **Helvetia IT Solutions** | Bilingual EN/DE business website for an IT services company | [Live](https://yigitdikmenq.github.io/helvetia-it/) |
 
 ### 🌱 Currently
 
@@ -43,7 +48,7 @@ troubleshooting business applications and supporting users.
 
 ### 🗣 Languages
 
-Turkish (native) · English (B1–B2) · German (beginner)
+Turkish (native) · English (C1) · German (beginner)
 
 ### 📫 Contact
 
