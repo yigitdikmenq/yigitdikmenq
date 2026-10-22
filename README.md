@@ -34,6 +34,7 @@ troubleshooting business applications and supporting users.
 
 | Project | Description | Links |
 |---|---|---|
+| 💊 **Sundex Vitamin** | Live client e-commerce store (Turkey) selling thousands of products/month: Next.js storefront + custom admin panel, built and managed solo | [Live site](https://www.sundexvitamin.com/) |
 | 🏔️ **Alpenmarkt** | Swiss regional food e-commerce demo: React, TypeScript, EN/DE, TWINT checkout, 31 tests, CI/CD | [Live demo](https://yigitdikmenq.github.io/alpenmarkt-store/) · [Code](https://github.com/yigitdikmenq/alpenmarkt-store) |
 | 🛠️ **IT Support PowerShell Toolkit** | Active Directory onboarding/offboarding, Microsoft 365 licence report, inventory and network checks; 41 Pester tests on PS 5.1 & 7 | [Code](https://github.com/yigitdikmenq/it-support-powershell-toolkit) |
 | 🗄️ **SQL Reporting Toolkit** | T-SQL on SQL Server 2022: management reports, data-validation checks, user/role management, backup & index maintenance | [Code](https://github.com/yigitdikmenq/sql-reporting-toolkit) |
